@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-persgroep",
+  "version": "1.0.0",
+  "description": "De Persgroep ESLint config",
+  "main": "index.js",
+  "author": {
+    "name": "Yannick Van Avermaet"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "persgroep",
+    "javascript",
+    "styleguide"
+  ],
+  "peerDependencies": {
+    "eslint": "^3.9.0"
+  }
+}
