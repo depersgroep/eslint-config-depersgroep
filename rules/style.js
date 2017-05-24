@@ -24,7 +24,7 @@ module.exports = {
 		'line-comment-position': 'off',
 		'linebreak-style': 'off',
 		'lines-around-comment': ['error', {'beforeBlockComment': true, 'beforeLineComment': true, 'allowBlockStart': true, 'allowBlockEnd' : true}],
-		'lines-around-directive': ['error', {'before': 'never', 'after': 'never'}],
+		'lines-around-directive': ['error', {'before': 'never', 'after': 'always'}],
 		'max-depth': 'off',
 		'max-len': 'off',
 		'max-lines': 'off',
