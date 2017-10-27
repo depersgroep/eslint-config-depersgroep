@@ -1,5 +1,5 @@
 {
-  "name": "@depersgroep/eslint-config-persgroep",
+  "name": "eslint-config-persgroep",
   "version": "1.1.1",
   "description": "De Persgroep ESLint config",
   "main": "index.js",
