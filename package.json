@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-persgroep",
+  "name": "@depersgroep/eslint-config-persgroep",
   "version": "1.1.0",
   "description": "De Persgroep ESLint config",
   "main": "index.js",
@@ -19,5 +19,8 @@
   ],
   "peerDependencies": {
     "eslint": "^3.9.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
