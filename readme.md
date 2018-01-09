@@ -7,7 +7,7 @@ De Persgroep ESLint [Shareable Config](https://eslint.org/docs/developer-guide/s
 npm install from this GitHub repository.
 
 ```
-npm install git+ssh://git@github.com:depersgroep/eslint-config-depersgroep.git --save-dev
+npm install eslint-config-depersgroep --save-dev
 ```
 
 Add the `extends` array to your `.eslintrc` with the config sets you need.
