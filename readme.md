@@ -4,7 +4,7 @@ De Persgroep ESLint [Shareable Config](https://eslint.org/docs/developer-guide/s
 
 ## Usage
 
-npm install from this GitHub repository.
+Install from npm public registry
 
 ```
 npm install eslint-config-depersgroep --save-dev
