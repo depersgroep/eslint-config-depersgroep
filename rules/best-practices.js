@@ -1,7 +1,7 @@
 module.exports = {
 	rules: {
 		'accessor-pairs': 'off',
-		'array-callback-return': 'error',
+		'array-callback-return': ['error', {'allowImplicit': true}],
 		'block-scoped-var': 'error',
 		'class-methods-use-this': 'error',
 		'complexity': 'off',
@@ -48,6 +48,7 @@ module.exports = {
 		'no-redeclare': 'error',
 		'no-restricted-properties': 'off',
 		'no-return-assign': 'error',
+		'no-return-await': 'error',
 		'no-script-url': 'error',
 		'no-self-assign': 'error',
 		'no-self-compare': 'error',
@@ -63,7 +64,9 @@ module.exports = {
 		'no-void': 'error',
 		'no-warning-comments': 'off',
 		'no-with': 'error',
+		'prefer-promise-reject-errors': ['error', {'allowEmptyReject': true}],
 		'radix': 'error',
+		'require-await': 'error',
 		'vars-on-top': 'error',
 		'wrap-iife': ['error', 'outside'],
 		'yoda': ['error', 'never']
