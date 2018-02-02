@@ -7,7 +7,7 @@ De Persgroep ESLint [Shareable Config](https://eslint.org/docs/developer-guide/s
 Install from npm public registry
 
 ```
-npm install eslint-config-depersgroep --save-dev
+npm install eslint-config-persgroep --save-dev
 ```
 
 Add the `extends` array to your `.eslintrc` with the config sets you need.
